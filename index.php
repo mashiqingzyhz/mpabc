@@ -125,7 +125,7 @@
     Welcome to OpenShift abc
   </h1>
   <p>
-    Place your HHVM <?php echo HHVM_VERSION; ?> application here
+    Place your HHVM <?php echo HHVM_VERSION; ?>my systest application here
   </p>
   <p>
     Gettext is <?php echo (function_exists("bindtextdomain"))?"Enabled":"disabled"; ?>. GeoIP is <?php echo (function_exists("geoip_database_info"))?"Enabled":"disabled"; ?>.
